@@ -18,18 +18,5 @@ Site responsivo desenvolvido com:
 
 Abra `index.html` no navegador. O Bootstrap e os ícones são carregados via CDN, portanto a máquina precisa de internet para esses recursos.
 
-## Antes de publicar
-
-Edite em `index.html` e `script.js`:
-- Número real do WhatsApp
-- Instagram
-- E-mail
-- Textos dos serviços
-- Informações profissionais
-- Links das redes sociais
-
-O número usado no exemplo é fictício: `5575992640235`.
-
-
 ## Identidade visual
-A imagem principal usa a foto fornecida. A logo foi isolada da imagem e aplicada no cabeçalho e nas áreas onde havia o símbolo anterior. A paleta foi ajustada para o turquesa e dourado da identidade visual.
+Conforme visto em conversa alianhado a padrões da logo.
